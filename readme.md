@@ -39,7 +39,7 @@ The quickstart covers:
 
 3. **Claude Desktop** (or other MCP-compatible client)
 
-For detailed installation instructions, see the [Quick Start Guide](quickstart.md).
+For detailed installation instructions, see the [Quick Start Guide](QUICKSTART.md).
 
 ## Installation
 
